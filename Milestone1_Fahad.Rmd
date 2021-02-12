@@ -1,0 +1,12 @@
+---
+title: "Milestone 1"
+author: "Fahad Alkhaja"
+date: "2/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+At this point of the semester there is a lot of ucnertainty, however I know I want to be creating a final project that has to do with sports, most probably soccer. The main data sources for soccer are from StatsBomb and Fbref. I plan to continue brainstorming with my colleagues, TFs and preceptor regarding what would be fun to make/visualize and analyse in soccer; at this moment in time there are too many ideas in my head so the current task for myself is to work on narrowing down these thoughts.
