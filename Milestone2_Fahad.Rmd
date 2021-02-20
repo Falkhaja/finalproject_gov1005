@@ -10,11 +10,23 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # First Final Project Analysis
-"Anan Hafez: An Analysis of 3-Pointers in the NBA. Professional basketball is obsessed with the 3-pointer, how did we get here and what has changed because of it?"
-
-What I loved about this final project was the level of detail and explanation it went to explain what a three pointer is. In addition, I was a big fan of the interactive plots that show the progression of the three pointer and more importantly the explanation behind how it has been progressing. However, while the information was amazing and the level of detail was great, I felt the web design was a bit basic and could be improved and I also noticed there was an error message on the "Effect & Salaries" page at the bottom of the page.
+"Anan Hafez: An Analysis of 3-Pointers in the NBA. Professional basketball is
+obsessed with the 3-pointer, how did we get here and what has changed because of
+it?"
+What I loved about this final project was the level of detail and explanation it
+went to explain what a three pointer is. In addition, I was a big fan of the
+interactive plots that show the progression of the three pointer and more
+importantly the explanation behind how it has been progressing. However, while
+the information was amazing and the level of detail was great, I felt the web
+design was a bit basic and could be improved and I also noticed there was an
+error message on the "Effect & Salaries" page at the bottom of the page.
 
 # Second Final Project Analysis
-"Tate Green: Game of Thrones Analysis. In depth analysis of Game of Thrones seasons 1-7"
-
-The pros of this article is that it is very simple to use and understand and does offer some insight into the most common words that each season uses. However, what it doesn't show is any further insight beyond that because it is a very simple model. Also, how the analysis is determined for how a word is used in a negative context or a positive one is not understood by looking at the simple model. 
+"Tate Green: Game of Thrones Analysis. In depth analysis of Game of Thrones
+seasons 1-7"
+The pros of this article is that it is very simple to use and understand and
+does offer some insight into the most common words that each season uses.
+However, what it doesn't show is any further insight beyond that because it is a
+very simple model. Also, how the analysis is determined for how a word is used
+in a negative context or a positive one is not understood by looking at the
+simple model.
